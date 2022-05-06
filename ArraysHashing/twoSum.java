@@ -1,5 +1,5 @@
 package ArraysHashing;
-
+//https://leetcode.com/problems/two-sum/
 import java.util.HashMap;
 
 public class twoSum {
